@@ -12,7 +12,9 @@ The Design Process
 
 5. Mounting & Refinement; Finally, internal screw holes were added to secure the top shell to the base, and edges were filleted for comfort. This step concluded the design process. Lastly, design errors were identified and corrected while maximizing ergonomic comfort.
 
-6. Conclusion: This project proved to be a fun challenge that introduced me to the world of 3D printed hardware. Overall, I learned more about the mechanical design process on onshape and how a mouse actually works. 
+6. Conclusion: This project proved to be a fun challenge that introduced me to the world of 3D printed hardware. Overall, I learned more about the mechanical design process on onshape and how a mouse actually works. Here is the attached CAD file: https://github.com/shreaypatel/squeakMouse/blob/main/squeakMouseSP%20(1).step
+
+   
 
 
 
