@@ -30,6 +30,8 @@ The Design Process
 
 
 
+9. Here is the screenshot for the receipt for the Bambu Labs wireless mouse kit.
+<img width="1908" height="908" alt="wirelessmousekitReciept" src="https://github.com/user-attachments/assets/a6950c88-37db-4bc7-9583-87e0c536b78d" />
 
 
 
