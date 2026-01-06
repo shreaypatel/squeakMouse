@@ -20,6 +20,7 @@ The Design Process
                                   : https://github.com/shreaypatel/squeakMouse/blob/main/render2.PNG
 
 
+<img width="1920" height="722" alt="render1" src="https://github.com/user-attachments/assets/c52386be-730f-4472-838c-f00bc613f7e6" />
 
 
 
