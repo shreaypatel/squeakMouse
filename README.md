@@ -22,6 +22,7 @@ The Design Process
 
 <img width="1920" height="722" alt="render1" src="https://github.com/user-attachments/assets/c52386be-730f-4472-838c-f00bc613f7e6" />
 
+<img width="1920" height="722" alt="render2" src="https://github.com/user-attachments/assets/27fddb6f-e51b-4b6c-8d46-628c240a4008" />
 
 
 
