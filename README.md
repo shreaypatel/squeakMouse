@@ -16,7 +16,8 @@ The Design Process
 
 7. Conclusion: This project proved to be a fun challenge that introduced me to the world of 3D printed hardware. Overall, I learned more about the mechanical design process on onshape and how a mouse actually works. Here is the attached CAD file: https://github.com/shreaypatel/squeakMouse/blob/main/squeakMouseSP%20(1).step
 
-8. Here is the attached CAD Render: 
+8. Here is the attached CAD Render: https://github.com/shreaypatel/squeakMouse/blob/main/render1.PNG
+                                  : 
 
 
 
